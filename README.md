@@ -27,4 +27,28 @@
 | **Tools Used**    | Rufus, Balena Etcher, or other USB creation tools           |
 | **Steps**         | 1. Download the OS image file. <br> 2. Insert and format the USB drive. <br> 3. Use the tool to write the OS image to the USB drive. <br> 4. Verify the bootable USB and test it if necessary. |
 
+### Vitrual Machine 
+Here’s a shorter version of the "Virtual Machine Setup" skill:
+
+| **Software**       | **Virtual Machine Setup**          |
+|--------------------|------------------------------------|
+| **Aspect**         | Creating and configuring VMs       |
+| **Objective**      | Set up virtual machines for testing and applications. |
+| **Skills Learned** | - VM creation<br>- OS installation<br>- Network configuration<br>- Resource management |
+| **Tools Used**     | - VirtualBox<br>- VMware<br>- Hyper-V |
+| **Steps**          | 1. **Install software:** Download and install VirtualBox, VMware, or Hyper-V.<br>2. **Create VM:** Set up a new VM with OS details.<br>3. **Install OS:** Use an ISO file to install the operating system.<br>4. **Configure network:** Set network options (e.g., NAT, Bridged).<br>5. **Adjust resources:** Set CPU, memory, and storage.<br>6. **Verify setup:** Check that the VM runs correctly. |
+
+
+### Active Directory 
+Sure! Here’s a shorter version for "Active Directory":
+
+| **Software**       | **Active Directory**               |
+|--------------------|------------------------------------|
+| **Aspect**         | Managing users and computers       |
+| **Objective**      | Organize and manage network resources with Active Directory. |
+| **Skills Learned** | - User management<br>- Group policies<br>- Organizational Units (OUs) |
+| **Tools Used**     | - Active Directory Users and Computers (ADUC)<br>- Group Policy Management Console (GPMC) |
+| **Steps**          | 1. **Install AD:** Add Active Directory role to a Windows Server.<br>2. **Set up Domain Controller:** Use the setup wizard.<br>3. **Create users:** Manage accounts with ADUC.<br>4. **Organize with OUs:** Create organizational units.<br>5. **Apply policies:** Use GPMC for group policies.<br>6. **Verify setup:** Check and troubleshoot as needed. |
+
+
 
